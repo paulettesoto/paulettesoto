@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulette Soto</h1>
-<h3 align="center">Software engineer student currently in my 8th semester and looking for oportunities as Full Stack Developer.</h3>
+<h3 align="center">Software engineer student currently in my 8th semester and looking for opportunities as Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulettesoto&label=Profile%20views&color=0e75b6&style=flat" alt="paulettesoto" /> </p>
 
