@@ -46,7 +46,7 @@
 
 
 <div style="display: flex; justify-content: center;" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulettesoto&" alt="paulettesoto" />
+  <img src="https://camo.githubusercontent.com/9d6354a541527fb416c0d620db1186820fd9d695db0a1f8a8f160593f8eb7857/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7061756c65747465736f746f26" alt="paulettesoto" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=paulettesoto&show_icons=true&locale=en&layout=compact" alt="paulettesoto" />
 </div>
 
